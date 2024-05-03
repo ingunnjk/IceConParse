@@ -7,7 +7,7 @@
 # outputfile.psd:   parsed .psd file formatted like IcePaHC
 #
 # Dependencies:
-# python3
+# python 3.6>=
 # stanza (pip3 install stanza)
 # detectormorse (pip3 install detectormorse)
 # tokenizer (pip3 install tokenizer)
