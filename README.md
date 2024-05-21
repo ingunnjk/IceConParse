@@ -1,5 +1,5 @@
 # Íslenskur taugaþáttari fyrir liðgerð / Icelandic Constituency Parser
-Íslenskur taugaþáttari, sem er þjálfaður á sögulega íslenska trjábankanum (IcePaHC), tilheyrir máltæknipakkanum Stanza og verður aðgengilegur í gegnum pípuna þeirra von bráðar (https://github.com/stanfordnlp/stanza). Hér verða sýnd notkunardæmi fyrir þáttarann.
+Íslenskur taugaþáttari, sem er þjálfaður á sögulega íslenska trjábankanum (IcePaHC), tilheyrir máltæknipakkanum Stanza og unnið er að því að gera hann aðgengilegan í gegnum pípuna þeirra (https://github.com/stanfordnlp/stanza). Hér verða sýnd notkunardæmi fyrir þáttarann.
 
 Til að keyra þáttarann þarf að hafa Python 3.6 eða nýrri. Einnig þarf að sækja nokkra pakka til viðbótar en þeir eru taldir upp í skránni run.sh.
 
