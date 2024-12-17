@@ -17,7 +17,7 @@ Ef líkanið er vistað í möppunni /stanza_is er hægt að keyra ./run.sh til 
 
 Einnig er hægt að nota líkanið á eftirfarandi hátt með Stanza pípunni:
 
-```
+```ruby
 import stanza
 
 nlp = stanza.Pipeline(lang='is', processors='tokenize, pos, constituency', constituency_model_path='/stanza_is/is_icepahc_transformer_finetuned_constituency.pt')
