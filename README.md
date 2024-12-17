@@ -13,7 +13,7 @@ Ef líkanið er vistað í möppunni /stanza_is er hægt að keyra ./run.sh til 
 - inputfile.txt er inntakstextinn sem á að þátta.
 - txtOutputfile.txt er úttakið úr þáttuninni þar sem hver lína inniheldur eina þáttaða setningu.
 - psdOutputfile.psd er úttakið úr þáttuninni þar sem trén eru á svipuðu sniði og í IcePaHC-trjábankanum.   
-
+&nbsp;
    
 Einnig er hægt að nota líkanið á eftirfarandi hátt með Stanza pípunni:
 
