@@ -30,5 +30,5 @@ for sentence in doc.sentences:
 Úttakið er þá:
 
 ```
-(ROOT (IP\*MAT (NP\*SBJ (D-N Þetta)) (BEPI er) (NP*PRD (ADJ-N stutt) (N-N setning)) (. .)))
+(ROOT (IP*MAT (NP*SBJ (D-N Þetta)) (BEPI er) (NP*PRD (ADJ-N stutt) (N-N setning)) (. .)))
 ```
